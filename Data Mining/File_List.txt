@@ -1,0 +1,29 @@
+Mode                LastWriteTime         Length Name                                                                  
+----                -------------         ------ ----                                                                  
+-a----       18-09-2020     09:34        6330026 A Hierarchical Multi Blockchain for Fine Grained Access to Medical    
+                                                 Data.pdf                                                              
+-a----       18-09-2020     09:54        6935201 A Survey of Data Partitioning and Sampling Methods to Support Big     
+                                                 Data Analysis.pdf                                                     
+-a----       18-09-2020     09:53        1782100 An Optimized Mining Algorithm for Analyzing Students’ Learning Degree 
+                                                 Based on Dynamic Data.pdf                                             
+-a----       18-09-2020     09:54       10001755 Big Data Analytics and Mining for Effective Visualization and Trends  
+                                                 Forecasting of Crime Data.pdf                                         
+-a----       18-09-2020     09:54        4826452 Dynamic Data Mining of Sensor Data.pdf                                
+-a----       18-09-2020     12:31              0 File_list.txt                                                         
+-a----       18-09-2020     10:26        1258073 From logs to Stories Human-Centred Data Mining for Cyber Threat       
+                                                 Intelligence.pdf                                                      
+-a----       18-09-2020     09:54        4231869 Heterogeneous Network-Based Chronic Disease Progression Mining.pdf    
+-a----       18-09-2020     09:31       11121522 Minimize Social Network Rumors Based on Rumor Path Tree.pdf           
+-a----       18-09-2020     09:54         715383 Mining Conditional Functional Dependency Rules on Big Data.pdf        
+-a----       18-09-2020     09:50         643347 Multi-source Medical Data Integration and Mining for Healthcare       
+                                                 Services.pdf                                                          
+-a----       18-09-2020     09:50        1610372 Research on Information Extraction of Technical Documents and         
+                                                 Construction of Domain Knowledge Graph.pdf                            
+-a----       18-09-2020     09:23        1467360 Research on Resource Allocation Optimization of Smart City Based on   
+                                                 Big Data.pdf                                                          
+-a----       18-09-2020     09:29        1583021 SecDedup Secure Encrypted Data Deduplication with Dynamic Ownership   
+                                                 Updating.pdf                                                          
+-a----       18-09-2020     09:53        2164964 Top-Down Process Mining From Multi-Source Running Logs Based on       
+                                                 Refinement of Petri Nets.pdf                                          
+-a----       18-09-2020     09:50         673792 Traffic incident detection method based on factor analysis and        
+                                                 weighted random forest.pdf
