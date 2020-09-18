@@ -1,0 +1,21 @@
+Mode                LastWriteTime         Length Name                                                                  
+----                -------------         ------ ----                                                                  
+-a----       18-09-2020     10:11        6027343 A multi-source image fusion algorithm based on gradient regularized   
+                                                 convolution sparse representation.pdf                                 
+-a----       18-09-2020     10:14        4701639 A Novel Medical Image Fusion Method Using Multi-Channel Pulse Coupled 
+                                                 Neural Networks.pdf                                                   
+-a----       18-09-2020     12:34              0 File_list.txt                                                         
+-a----       18-09-2020     10:11        3481093 Fusionnet Multispectral Fusion of RGB and NIR Images Using Two Stage  
+                                                 Convolutional Neural Networks.pdf                                     
+-a----       18-09-2020     10:14        2167118 Gated Recurrent Fusion to Learn Driving Behavior from Temporal        
+                                                 Multimodal Data.pdf                                                   
+-a----       18-09-2020     10:11        4284915 MRI and CT Medical Image Fusion Based on Synchronized-Anisotropic     
+                                                 Diffusion Model.pdf                                                   
+-a----       18-09-2020     10:14        2114889 Multi-Component Fusion Network for Small Object Detection in Remote   
+                                                 Sensing Images.pdf                                                    
+-a----       18-09-2020     10:11        4965831 Multi-Focus Image Fusion With Point Detection Filter and              
+                                                 Superpixel-Based Consistency Verification.pdf                         
+-a----       18-09-2020     09:23        2291749 Multi-Level Local Feature Coding Fusion for Music Genre               
+                                                 Recognition.pdf                                                       
+-a----       18-09-2020     10:11        2200879 Time Segmented Image Fusion Based MultiDepth Defects Imaging Method   
+                                                 in Composites With Pulsed Terahertz.pdf
