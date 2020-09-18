@@ -1,0 +1,47 @@
+Mode                LastWriteTime         Length Name                                                                  
+----                -------------         ------ ----                                                                  
+-a----       18-09-2020     10:22        1004965 A Hybrid Cyber Attack Model for Cyber-Physical Power Systems.pdf      
+-a----       18-09-2020     09:31        1091909 Analysis for the Evaluation and Security Management of a Database in  
+                                                 a Public Organization to Mitigate Cyber Attacks.pdf                   
+-a----       18-09-2020     09:59        5658426 CloudStrike Chaos Engineering for Security and Resiliency in Cloud    
+                                                 Infrastructure.pdf                                                    
+-a----       18-09-2020     09:33        4267251 Comprehensive Review of Cybercrime Detection Techniques.pdf           
+-a----       18-09-2020     10:14         485852 Concept and Research Framework for Coordinated Situation Awareness    
+                                                 and Active Defense of Cyber-physical Power Systems Against            
+                                                 Cyber-attacks.pdf                                                     
+-a----       18-09-2020     09:30         244920 Cryptanalysis of Two Signature Schemes for IoT-Based Mobile Payments  
+                                                 and Healthcare Wireless Medical Sensor Networks.pdf                   
+-a----       18-09-2020     10:21        3266345 Cyber-Security Internals of a Skoda Octavia vRS A Hands on            
+                                                 Approach.pdf                                                          
+-a----       18-09-2020     10:21        7376520 Design of a Cosimulation Platform With Hardware-in-the-Loop for       
+                                                 Cyber-Attacks on Cyber-Physical Power Systems.pdf                     
+-a----       18-09-2020     09:44        7196167 Detecting DoS Attacks Based on Multi-Features in SDN.pdf              
+-a----       18-09-2020     09:59        9879767 Determining Factors Pertaining to Cloud Security Adoption Framework   
+                                                 in Government Organizations An Exploratory Study.pdf                  
+-a----       18-09-2020     09:56        6923093 Enhancing Cloud-Based IoT Security Through Trustworthy Cloud Service  
+                                                 An Integration of Security and Reputation Approach.pdf                
+-a----       18-09-2020     09:43        3318834 Evaluating the Security Impact of Healthcare Web Applications Through 
+                                                 Fuzzy Based Hybrid Approach of Multi-Criteria Decision-Making         
+                                                 Analysis.pdf                                                          
+-a----       18-09-2020     12:41              0 File_list.txt                                                         
+-a----       18-09-2020     10:22        1787090 Hybrid data-driven physics model-based framework for enhanced         
+                                                 cyber-physical smart grid security.pdf                                
+-a----       18-09-2020     09:46        6931262 Man-in-the-Middle Attack Detection and Localization Based on          
+                                                 Cross-Layer Location Consistency.pdf                                  
+-a----       18-09-2020     09:32        6504499 Modeling and Hybrid Calculation Architecture for Cyber Physical Power 
+                                                 Systems.pdf                                                           
+-a----       18-09-2020     09:59       10603696 Ontology-Based Security Context Reasoning for Power IoT-Cloud         
+                                                 Security Service.pdf                                                  
+-a----       18-09-2020     10:22        2610140 Prosumer Nanogrids A Cybersecurity Assessment.pdf                     
+-a----       18-09-2020     10:22        1396836 Real-time stability assessment in smart cyberphysical grids a deep    
+                                                 learning approach.pdf                                                 
+-a----       18-09-2020     10:21        1182367 Risk Entropy Modeling of Surveillance Camera for Public Security      
+                                                 Application.pdf                                                       
+-a----       18-09-2020     09:59        2057997 SDNNFV-Based Security Service Function Tree for Cloud.pdf             
+-a----       18-09-2020     10:14        8573240 Security Assessment for Cyber Physical Distribution Power System      
+                                                 Under Intrusion Attacks.pdf                                           
+-a----       18-09-2020     10:03        2151052 Security for smart cities.pdf                                         
+-a----       18-09-2020     10:21        6989921 Security Testbed for Internet-of-Things Devices.pdf                   
+-a----       18-09-2020     09:43        7115213 Tracing Website Attackers by Analyzing Onion Routers’ Log Files.pdf   
+-a----       18-09-2020     10:21        3729770 Wireless Communication and Security Issues for Cyber–Physical Systems 
+                                                 and the Internet-of-Things.pdf                                 
