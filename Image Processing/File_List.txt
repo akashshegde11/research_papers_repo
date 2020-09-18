@@ -1,0 +1,41 @@
+Mode                LastWriteTime         Length Name                                                                  
+----                -------------         ------ ----                                                                  
+-a----       18-09-2020     09:25        2323333 A 3D Image Encryption Algorithm Based on the Chaotic System and the   
+                                                 Image Segmentation.pdf                                                
+-a----       18-09-2020     09:14        2074238 A Novel Optimized Semi-Blind Schemefor Color Image Watermarking.pdf   
+-a----       18-09-2020     09:29        7152549 ARM-Embedded Implementation of a Novel Color Image Encryption and     
+                                                 Transmission System Based on Optical Chaos.pdf                        
+-a----       18-09-2020     09:11         679821 Automatic Segmentation using a Hybrid Dense Network Integrated with   
+                                                 an 3D-Atrous Spatial Pyramid Pooling Module for Computed Tomography   
+                                                 (CT) Imaging.pdf                                                      
+-a----       18-09-2020     09:24        3558040 Big Data Image Classification Based on Distributed Deep               
+                                                 Representation Learning Model.pdf                                     
+-a----       18-09-2020     10:03        3970156 Color Image Encryption Algorithm Based on Dynamic Chaos and Matrix    
+                                                 Convolution.pdf                                                       
+-a----       18-09-2020     09:10        2509462 Deep learning-based vehicle occupancy detection in an open parking    
+                                                 lot using thermal camera.pdf                                          
+-a----       18-09-2020     09:11         866221 Direct cell counting using macro-scale smartphone images of cell      
+                                                 aggregates.pdf                                                        
+-a----       18-09-2020     12:39              0 File_list.txt                                                         
+-a----       18-09-2020     09:24        5024666 Global Prototypical Network for Few-Shot Hyperspectral Image          
+                                                 Classification.pdf                                                    
+-a----       18-09-2020     09:44        2446396 Image Steganography Based on Artificial Immune in Mobile Edge         
+                                                 Computing With Internet of Things.pdf                                 
+-a----       18-09-2020     09:23       11919388 Iterative Residual Network for Image Dehazing.pdf                     
+-a----       18-09-2020     09:24        3623450 Low Illumination Video Image Enhancement.pdf                          
+-a----       18-09-2020     09:17        8547150 Low-light Image Enhancement via Pair of Complementary Gamma Functions 
+                                                 by Fusion.pdf                                                         
+-a----       18-09-2020     09:18        2033426 Microwave Detection of Brain Injuries by Means of a Hybrid Imaging    
+                                                 Method.pdf                                                            
+-a----       18-09-2020     09:15        2065667 Multi-class Triplet Loss with Gaussian Noise for Adversarial          
+                                                 Robustness.pdf                                                        
+-a----       18-09-2020     09:18        2381322 OMNI A Framework for Integrating Hardware and Software Optimizations  
+                                                 for Sparse CNNs.pdf                                                   
+-a----       18-09-2020     09:26        2444043 On Addressing the Impact of ISO Speed Upon PRNU and Forgery           
+                                                 Detection.pdf                                                         
+-a----       18-09-2020     09:07        2504987 Study of Texture Segmentation and Classification for Grading Small    
+                                                 Hepatocellular Carcinoma Based on CT Images.pdf                       
+-a----       18-09-2020     09:22        2058460 TiVGAN Text to Image to Video Generation With Step-by-Step            
+                                                 Evolutionary Generator.pdf                                            
+
+
