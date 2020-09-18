@@ -1,0 +1,36 @@
+Mode                LastWriteTime         Length Name                                                                  
+----                -------------         ------ ----                                                                  
+-a----       18-09-2020     09:44        4330455 6G Wireless Communication Systems Applications, Requirements,         
+                                                 Technologies, Challenges, and Research Directions.pdf                 
+-a----       18-09-2020     09:44        8905225 A Review of Intrusion Detection and Blockchain Applications in the    
+                                                 Cloud Approaches, Challenges and Solutions.pdf                        
+-a----       18-09-2020     09:59        5287860 A Security Reputation Model for IoT Health Data Using S-AlexNet and   
+                                                 Dynamic Game Theory in Cloud Computing Environment.pdf                
+-a----       18-09-2020     09:46        6001987 A Survey on Blockchain-Fog Integration Approaches.pdf                 
+-a----       18-09-2020     10:03        1264690 An Efficient Attribute-Based Multi-Keyword Search Scheme in Encrypted 
+                                                 Keyword Generation.pdf                                                
+-a----       18-09-2020     09:59        4035249 An Integrated Methodology for Big Data Classification and Security    
+                                                 for Improving Cloud Systems Data Mobility.pdf                         
+-a----       18-09-2020     09:45        2714283 An Overview on Blockchain for Smartphones State-of-the-Art,           
+                                                 Consensus, Implementation, Challenges and Future Trends.pdf           
+-a----       18-09-2020     10:27        3084301 Analysis of the Impact of Combined Information-Physical-Failure on    
+                                                 Distribution Network CPS.pdf                                          
+-a----       18-09-2020     09:59        2640042 Analyzing CSP Trustworthiness and Predicting Cloud Service            
+                                                 Performance.pdf                                                       
+-a----       18-09-2020     10:04       12224642 Blockchain and IoT-Based Cognitive Edge Framework for Sharing Economy 
+                                                 Services in a Smart City.pdf                                          
+-a----       18-09-2020     10:03        1830451 Blockchain-Based Searchable Encryption Scheme With Fair Payment.pdf   
+-a----       18-09-2020     09:59        2495377 Cloud-Assisted EHR Sharing With Security and Privacy Preservation via 
+                                                 Consortium Blockchain.pdf                                             
+-a----       18-09-2020     10:03        7678422 Edge Computing in 5G A Review.pdf                                     
+-a----       18-09-2020     09:28        1320877 Fault-Tolerant Design for Data Efficient Retransmission in WiNoC.pdf  
+-a----       18-09-2020     10:26        1225914 Federated Learning-Based Cognitive Detection of Jamming Attack in     
+                                                 Flying Ad-Hoc Network.pdf                                             
+-a----       18-09-2020     12:41              0 File_list.txt                                                         
+-a----       18-09-2020     10:26        1222656 Hijacking internet-connected devices to provoke harmful oscillations  
+                                                 in an electrical network a feasibility assessment.pdf                 
+-a----       18-09-2020     10:03        3646859 Hybrid Lightweight Proxy Re-Encryption Scheme for Secure              
+                                                 Fog-to-Things Environment.pdf                                         
+-a----       18-09-2020     10:03        1298813 Towards a Fog Enabled Efficient Car Parking Architecture.pdf          
+
+
